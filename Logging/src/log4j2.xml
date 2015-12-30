@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="debug" monitorInterval="30">
+	<CustomLevels>
+		<CustomLevel name="SPLUNKFEED" intLevel="350" />
+	</CustomLevels>
+    <Appenders>
+        <File name="splunk" fileName="SplunkFeed.log" immediateFlush="false" append="false">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+         <File name="general" fileName="application.log" immediateFlush="false" append="false">
+         	<ThresholdFilter level="SPLUNKFEED" onMatch="DENY" onMismatch="ACCEPT"/>
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Logger name="com.logging" level="trace"/>
+           <!--  <AppenderRef ref="general"/>
+        </Logger>
+        <Logger name="com.logging" level="SPLUNKFEED" additivity="false">
+            <AppenderRef ref="splunk"/>
+        </Logger> -->
+       <!--  <Logger name="com.logging" level="TRACE"/> -->
+        <Root level="debug">
+        	<AppenderRef ref="general"/>
+        	<AppenderRef ref="splunk" level="SPLUNKFEED"/>
+        </Root>
+    </Loggers>
+</Configuration>

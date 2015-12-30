@@ -1,0 +1,16 @@
+PAGE_SIZE 100
+NUM_PAGES 4
+PATH_FOR_DATA \tmp\
+BEGIN
+countries
+ID, int
+CODE, String
+NAME, String
+CONTINENT, String
+END
+
+BEGIN
+student
+id,number
+name,varchar2(20)
+END

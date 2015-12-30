@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<config>
+		<!-- Page-size specified in kb -->
+		<pagesize>1024</pagesize>
+		<maxpagetocache>15</maxpagetocache>
+	</config>
+	<tables>
+		<table name="Student">
+			<column name="firstName" type="String"/>
+			<column name="lastName" type="String"/>
+			<column name="rollNumber" type="String"/>
+		</table>
+		<table name="Department">
+			<column name="deptName" type="String"/>
+			<column name="deptID" type="String"/>
+		</table>
+	</tables>
+</root>

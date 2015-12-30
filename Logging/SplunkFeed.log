@@ -1,0 +1,10 @@
+14-12-29 19:23:38.621 [main] SplunkFeed com.logging.MainClass - SPLUNKFEED
+14-12-29 19:23:38.621 [main] WARN  com.logging.MainClass - WARN
+14-12-29 19:23:38.621 [main] ERROR com.logging.MainClass - ERROR
+14-12-29 19:23:38.621 [main] FATAL com.logging.MainClass - FATAL
+14-12-29 19:23:38.659 [main] SplunkFeed com.logging2.OtherTestClass - OtherTestClass - SPLUNKFEED
+14-12-29 19:23:38.660 [main] WARN  com.logging2.OtherTestClass - OtherTestClass - WARN
+14-12-29 19:23:38.660 [main] ERROR com.logging2.OtherTestClass - OtherTestClass - ERROR
+14-12-29 19:23:38.660 [main] FATAL com.logging2.OtherTestClass - OtherTestClass - FATAL
+14-12-29 19:23:41.138 [main] SplunkFeed com.logging.MainClass - Used memory is bytes: 1488024
+14-12-29 19:23:41.138 [main] SplunkFeed com.logging.MainClass - Used memory is megabytes: 1

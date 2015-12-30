@@ -1,0 +1,416 @@
+6523,heliport,Total Rf Heliport,40,-75,US,US-PA
+6524,small_airport,Lowell Field,60,-152,US,US-AK
+6525,small_airport,Epps Airpark,35,-87,US,US-AL
+6526,heliport,Newport Hospital & Clinic Heliport,36,-91,US,US-AR
+6527,small_airport,Cordes Airport,34,-112,US,US-AZ
+6528,small_airport,Goldstone /Gts/ Airport,35,-117,US,US-CA
+6529,small_airport,Cass Field,41,-104,US,US-CO
+6531,small_airport,Grass Patch Airport,29,-82,US,US-FL
+6532,heliport,Ringhaver Heliport,29,-82,US,US-FL
+6533,small_airport,River Oak Airport,27,-81,US,US-FL
+6534,small_airport,Lt World Airport,34,-84,US,US-GA
+6535,heliport,Caffrey Heliport,34,-85,US,US-GA
+6536,heliport,Kaupulehu Heliport,20,-156,US,US-HI
+6537,small_airport,Delta Shores Airport,48,-116,US,US-ID
+6538,heliport,Bailey Generation Station Heliport,42,-87,US,US-IN
+6539,small_airport,Hammer Airport,42,-90,US,US-IL
+6540,heliport,St Mary Medical Center Heliport,42,-87,US,US-IN
+6541,small_airport,Hayenga's Cant Find Farms Airport,40,-89,US,US-IL
+6542,small_airport,Hayden Farm Airport,39,-95,US,US-KS
+6543,small_airport,Robbins Roost Airport,37,-85,US,US-KY
+45437,heliport,Shell Chemical East Site Heliport,30,-91,US,US-LA
+6544,heliport,Ac & R Components Heliport,40,-90,US,US-IL
+6545,small_airport,Lejeune Airport,30,-92,US,US-LA
+6546,small_airport,Slater Field,39,-76,US,US-MD
+6547,heliport,Dow Chemical Heliport,44,-86,US,US-MI
+6548,small_airport,Battle Lake Municipal Airport,46,-96,US,US-MN
+6549,small_airport,Cooper Flying Service Airport,37,-94,US,US-MO
+6550,small_airport,Sands Ranch Airport,49,-110,US,US-MT
+6551,small_airport,Bucks Airport,39,-75,US,US-NJ
+6552,small_airport,North Raleigh Airport,36,-78,US,US-NC
+6553,heliport,Colgate-Piscataway Heliport,41,-74,US,US-NJ
+6554,small_airport,Weiss Airfield,43,-77,US,US-NY
+6555,small_airport,Exit 3 Airport,42,-84,US,US-OH
+6556,heliport,Miami Valley Hospital Heliport,40,-84,US,US-OH
+6557,heliport,Steel Systems Heliport,45,-123,US,US-OR
+6558,heliport,R J D Heliport,40,-76,US,US-PA
+45773,small_airport,Ferrell Field,41,-80,US,US-PA
+6559,small_airport,Thomas Field,40,-77,US,US-PA
+6560,small_airport,Mc Kenzie Bridge State Airport,44,-122,US,US-OR
+6561,small_airport,Flying O Airport,34,-80,US,US-SC
+6562,heliport,Sw Region Faa Heliport,33,-97,US,US-TX
+6563,heliport,Tcjc-Northeast Campus Heliport,33,-97,US,US-TX
+6564,small_airport,Ragsdale Road Airport,36,-86,US,US-TN
+6565,small_airport,Alpine Range Airport,33,-97,US,US-TX
+6566,heliport,San Jacinto Methodist Hospital Heliport,30,-95,US,US-TX
+6567,closed,Clear Creek Ranch Airport,37,-113,US,US-UT
+6568,small_airport,Vaughan Airport,37,-79,US,US-VA
+6569,small_airport,Groundhog Mountain Airport,37,-80,US,US-VA
+6570,small_airport,Lower Granite State Airport,47,-117,US,US-WA
+6571,small_airport,Howell Airport,47,-123,US,US-WA
+6572,small_airport,Northern Lite Airport,44,-89,US,US-WI
+6573,small_airport,Hawks Run Airport,46,-117,US,US-WA
+6574,small_airport,Lazy J Aerodrome,39,-80,US,US-WV
+6575,small_airport,L P Askew Farms Airport,33,-102,US,US-TX
+6576,small_airport,Purkeypile Airport,63,-152,US,US-AK
+6577,heliport,Providence Seward Medical Center Heliport,60,-149,US,US-AK
+6578,small_airport,Ware Island Airport,33,-87,US,US-AL
+6579,heliport,Community Hospital of De Queen Heliport,34,-94,US,US-AR
+6580,heliport,Yat Heliport,35,-112,US,US-AZ
+6581,small_airport,Grant Airport,43,-86,US,US-MI
+6582,heliport,Lugo Substation Heliport,34,-117,US,US-CA
+6583,small_airport,Swansboro Country Airport,39,-121,US,US-CA
+6584,heliport,Los Angeles County Sheriff's Department Heliport,34,-118,US,US-CA
+6585,heliport,St Vincent General Hospital Heliport,39,-106,US,US-CO
+6586,heliport,Berlin Fairgrounds Heliport,42,-73,US,US-CT
+6587,small_airport,Rybolt Ranch Airport,29,-81,US,US-FL
+6588,heliport,Florida Hospital-Altamonte Heliport,29,-81,US,US-FL
+6589,small_airport,Cedar Knoll Flying Ranch Airport,29,-81,US,US-FL
+6590,heliport,Medical Center Heliport,32,-85,US,US-GA
+6591,small_airport,The Farm Airport,33,-83,US,US-GA
+6592,small_airport,Stender Airport,42,-91,US,US-IA
+6530,small_airport,Lava Hot Springs Airport,43,-112,US,US-ID
+6593,small_airport,Myers Field,40,-87,US,US-IN
+6594,heliport,Hoopeston Community Memorial Hospital Heliport,40,-88,US,US-IL
+6595,heliport,Community Hospital Heliport,40,-86,US,US-IN
+6596,small_airport,William E Koenig Airport,39,-90,US,US-IL
+6597,small_airport,Hilliard Airpark,31,-82,US,US-FL
+6598,small_airport,Caldwell Municipal Airport,37,-98,US,US-KS
+6599,small_airport,Flying N Ranch Airport,39,-97,US,US-KS
+6600,heliport,Lourdes Hospital Heliport,37,-89,US,US-KY
+6601,small_airport,Barham Airport,33,-92,US,US-LA
+6602,small_airport,Schumaier Restricted Landing Area,38,-89,US,US-IL
+6603,small_airport,Country Breeze Airport,31,-91,US,US-LA
+6604,heliport,Compaq Andover Heliport,43,-71,US,US-MA
+6605,seaplane_base,Annapolis Seaplane Base,39,-76,US,US-MD
+6606,seaplane_base,Saint Peter's Seaplane Base,47,-69,US,US-ME
+6607,heliport,Flow Through Terminal Heliport,43,-84,US,US-MI
+6608,seaplane_base,Barnes Seaplane Base,48,-93,US,US-MN
+6609,heliport,Highway Patrol Troop C Headquarters Heliport,39,-90,US,US-MO
+6610,small_airport,Crystal Lakes Resort Airport,49,-115,US,US-MT
+6611,small_airport,Topsail Airpark,34,-78,US,US-NC
+6612,small_airport,Detour Airport,41,-101,US,US-NE
+6613,small_airport,Moore Airfield,44,-72,US,US-NH
+6614,heliport,Albert Guido Memorial Heliport,41,-74,US,US-NJ
+45537,small_airport,Champion Ranch Airport,33,-105,US,US-NM
+6615,small_airport,Lantana Ranch Airport,39,-119,US,US-NV
+6616,heliport,Vassar Hospital Heliport,42,-74,US,US-NY
+6617,heliport,Galion Community Hospital Heliport,41,-83,US,US-OH
+6618,small_airport,Lawrence Airport,35,-99,US,US-OK
+6619,small_airport,Red & White Flying Service Airport,43,-121,US,US-OR
+6620,heliport,Pine Heliport,41,-80,US,US-PA
+6621,small_airport,Bierly(Personal Use) Airport,41,-78,US,US-PA
+6622,small_airport,Nort's Resort Airport,42,-76,US,US-PA
+6623,small_airport,York Airport,35,-81,US,US-SC
+6624,heliport,Thirty Thirty Matlock Office Center Heliport,33,-97,US,US-TX
+6625,small_airport,Smith Field,33,-96,US,US-TX
+6626,small_airport,Colonial Air Park,35,-90,US,US-TN
+6627,heliport,St Joseph Hospital Heliport,33,-97,US,US-TX
+6628,small_airport,Mims Farm Ultralightport,32,-97,US,US-TX
+6629,small_airport,Duckwater Airport,39,-116,US,US-NV
+6630,small_airport,La Sal Junction Airport,38,-109,US,US-UT
+6631,small_airport,Pickles Airport,39,-78,US,US-VA
+6632,heliport,Willapa Harbor Heliport,47,-124,US,US-WA
+6633,small_airport,Prehn Cranberry Company Airport,44,-90,US,US-WI
+6634,heliport,Whidbey General Hospital Heliport,48,-123,US,US-WA
+45900,heliport,Odyssey Heliport,48,-122,US,US-WA
+6635,small_airport,Keyhole Airport,44,-105,US,US-WY
+46288,heliport,Seton Medical Center Hays Heliport,30,-98,US,US-TX
+6636,heliport,Meadowood Ranch Heliport,32,-96,US,US-TX
+6637,small_airport,Rustic Wilderness Airport,62,-150,US,US-AK
+6638,small_airport,Bass Field,30,-88,US,US-AL
+43030,small_airport,Three Rivers Airport,35,-92,US,US-AR
+6640,small_airport,Winchester Farm Airstrip,32,-110,US,US-AZ
+6641,heliport,Swepi Beta Platform Ellen Heliport,34,-118,US,US-CA
+6642,small_airport,Shannon Field,34,-91,US,US-MS
+6643,small_airport,Conover Air Lodge Airport,35,-119,US,US-CA
+6644,small_airport,Mc Cullough Airport,38,-106,US,US-CO
+6645,heliport,Strangers Point Heliport,42,-72,US,US-CT
+6646,small_airport,Osborn Airfield,29,-82,US,US-FL
+45347,small_airport,Cuchens Airport,31,-86,US,US-FL
+6648,small_airport,Doug Bolton Field,34,-83,US,US-GA
+6649,small_airport,Etowah Fields Airport,34,-85,US,US-GA
+6650,heliport,K3 Helipad Heliport,21,-158,US,US-HI
+6651,heliport,Boone County Hospital Heliport,42,-94,US,US-IA
+6652,small_airport,Morgan Ranch Airport,45,-115,US,US-ID
+6653,small_airport,King Ultralightport,40,-86,US,US-IN
+6654,small_airport,Diamond P Field,40,-86,US,US-IN
+6655,heliport,Condell Medical Center Heliport,42,-88,US,US-IL
+6656,small_airport,Jmj Landing Airport,39,-96,US,US-KS
+6657,heliport,Boone National Guard Heliport,38,-85,US,US-KY
+6658,heliport,La State Police Troop G Heliport,33,-94,US,US-LA
+6659,heliport,Windy Hill Heliport,30,-92,US,US-LA
+6660,heliport,Cuttyhunk Heliport,41,-71,US,US-MA
+6661,small_airport,Old Acton Airfield,44,-71,US,US-ME
+6662,small_airport,Fairplains Airpark,43,-85,US,US-MI
+6663,small_airport,Greenbush Municipal Airport,49,-96,US,US-MN
+6664,small_airport,Troy Airpark,39,-91,US,US-MO
+6665,small_airport,Watts Field,34,-91,US,US-MS
+6666,small_airport,Barrett Field,47,-112,US,US-MT
+6667,small_airport,Timber Line Airpark,37,-94,US,US-MO
+45686,heliport,Race City Heliport,36,-81,US,US-NC
+6668,small_airport,Benes Service Airport,41,-97,US,US-NE
+6669,seaplane_base,Iroquois Landing Seaplane Base,45,-71,US,US-NH
+6670,heliport,Penske Heliport,41,-74,US,US-NJ
+6671,small_airport,Paiute Meadows Airport,41,-119,US,US-NV
+6672,heliport,Hansen Heliport,43,-76,US,US-NY
+6673,small_airport,Zimmerman Airport,41,-83,US,US-OH
+6674,small_airport,Murtha Airport,42,-81,US,US-OH
+6675,heliport,Canon Heliport,35,-98,US,US-OK
+6676,small_airport,Rowena Dell Airport,46,-121,US,US-OR
+6677,heliport,Stottle Memorial Heliport,40,-78,US,US-PA
+6678,heliport,Lag Iii Heliport,40,-80,US,US-PA
+6679,heliport,Peco Berwyn Heliport,40,-75,US,US-PA
+6680,small_airport,Cuylers Airport,18,-66,PR,PR-U-A
+6681,small_airport,Hughes Ultralightport,42,-77,US,US-PA
+6682,small_airport,Harpers Airport,33,-81,US,US-SC
+6683,small_airport,Wise River Airport,46,-113,US,US-MT
+6684,heliport,Matagorda Shore Facility Heliport,29,-96,US,US-TX
+6685,heliport,Baylor Medical Center Heliport,32,-97,US,US-TX
+6686,small_airport,Ellis Field,36,-87,US,US-TN
+6687,heliport,Fwomc Heliport,33,-97,US,US-TX
+6688,small_airport,The Palms At Kitty Hawk Airport,33,-102,US,US-TX
+6689,small_airport,Lucin Airport,41,-114,US,US-UT
+6690,small_airport,The Greenhouse Airport,38,-78,US,US-VA
+6691,heliport,Northstar Aviation Heliport,37,-82,US,US-VA
+6692,small_airport,Cawleys South Prairie Airport,47,-122,US,US-WA
+6693,small_airport,Beer Airport,45,-93,US,US-WI
+6694,small_airport,Fowler Field,49,-119,US,US-WA
+6695,small_airport,Seidel Ranch Airport,30,-98,US,US-TX
+6696,seaplane_base,Joe Clouds Seaplane Base,61,-151,US,US-AK
+6697,heliport,Jackson County Hospital Heliport,35,-86,US,US-AL
+6698,heliport,Hscmh Heliport,34,-93,US,US-AR
+6699,small_airport,Thompson International Aviation Airport,31,-110,US,US-AZ
+6700,heliport,Grossmont Hospital Heliport,33,-117,US,US-CA
+6701,small_airport,Kugel-Strong Airport,40,-105,US,US-CO
+6702,small_airport,Lake Persimmon Airstrip,27,-81,US,US-FL
+6703,small_airport,Tharpe Airport,31,-86,US,US-FL
+6704,heliport,Ranger Heliport,27,-80,US,US-FL
+6705,small_airport,Clarks Dream Strip,40,-83,US,US-OH
+6706,small_airport,East Field,42,-92,US,US-IA
+6707,small_airport,Flying Y Ranch Airport,45,-117,US,US-ID
+6708,small_airport,Davis Field Ultralightport,38,-88,US,US-IN
+6709,small_airport,Wix Airport,41,-88,US,US-IL
+6710,small_airport,Heinzman Airport,40,-86,US,US-IN
+6711,heliport,St Anthony's Hospital Heliport,39,-90,US,US-IL
+6712,heliport,Valley Grain Heliport,40,-95,US,US-KS
+6713,small_airport,Flying H Farms Airport,38,-88,US,US-KY
+6714,heliport,Damien Heliport,30,-91,US,US-LA
+6715,heliport,Fmc Nr 1 Heliport,32,-92,US,US-LA
+6716,seaplane_base,Lakeside Marina Seaplane Base,44,-70,US,US-ME
+6717,small_airport,Hadley Airport,42,-73,US,US-MA
+6718,heliport,Upper Chesapeake Medical Center Heliport,40,-76,US,US-MD
+6719,small_airport,Maple Ridge Airport,44,-71,US,US-ME
+6720,heliport,Harold Miller Heliport,44,-84,US,US-MI
+6721,small_airport,Nauerth Land Ranch Airport,44,-95,US,US-MN
+6722,small_airport,Cahoochie Airport,38,-93,US,US-MO
+6723,heliport,Vicksburg Medical Center Heliport,32,-91,US,US-MS
+6724,small_airport,Cascade Airport,47,-112,US,US-MT
+6725,small_airport,Mc Donnell Airport,38,-94,US,US-MO
+4650,small_airport,Utirik Airport,11,170,MH,MH-UTI
+6726,small_airport,Pilots Ridge Airport,34,-78,US,US-NC
+6727,small_airport,Olafson Brothers Airport,49,-98,US,US-ND
+6728,small_airport,Hyde Ranch Airport,42,-99,US,US-NE
+6729,heliport,Lorden Heliport,43,-71,US,US-NH
+6730,heliport,At&T Heliport,41,-74,US,US-NJ
+6731,small_airport,Llama Ranch Airport,41,-115,US,US-NV
+6732,small_airport,Talmage Field,41,-73,US,US-NY
+6733,small_airport,Gibbs Field,41,-83,US,US-OH
+6734,heliport,Marymount Hospital Heliport,41,-82,US,US-OH
+6735,small_airport,Sahoma Lake Airport,36,-96,US,US-OK
+6736,small_airport,Powwatka Ridge Airport,46,-117,US,US-OR
+6737,heliport,Collegeville Heliport,40,-75,US,US-PA
+6738,heliport,MP Metals Heliport,41,-76,US,US-PA
+6739,small_airport,Ziggy's Field,41,-78,US,US-PA
+6740,small_airport,Sandy River Airport,45,-122,US,US-OR
+6741,heliport,Seacoast Medical Center Heliport,34,-79,US,US-SC
+6742,small_airport,Gay Hill Farm Airport,30,-97,US,US-TX
+6743,small_airport,Barronena Ranch Airport,27,-99,US,US-TX
+6744,heliport,Eagles Landing Heliport,36,-84,US,US-TN
+6745,heliport,Shannon Medical Center Heliport,31,-100,US,US-TX
+6746,heliport,M D K Field,30,-95,US,US-TX
+6747,small_airport,A Z Minerals Corporation Airport,37,-110,US,US-UT
+6748,closed,Whipoorwill Springs Airport,39,-78,US,US-VA
+6749,small_airport,Spangle Field,47,-117,US,US-WA
+6750,small_airport,Zink Airport,44,-89,US,US-WI
+6751,small_airport,Aerostone Ranch Airport,46,-121,US,US-WA
+6752,small_airport,Creekside Airport,31,-101,US,US-TX
+6753,heliport,Anniston AHP (Anniston Army Depot),34,-86,US,US-AL
+6754,heliport,Saline Memorial Hospital Heliport,35,-93,US,US-AR
+6755,small_airport,Chinle Airport,36,-110,US,US-AZ
+6756,small_airport,Gray Butte Field,35,-118,US,US-CA
+6757,small_airport,Hunt's Sky Ranch Airport,33,-116,US,US-CA
+6758,heliport,Shingle Mill Heliport,42,-73,US,US-CT
+6759,small_airport,De Leon Municipal Airport,32,-99,US,US-TX
+6760,small_airport,Richards Field,26,-81,US,US-FL
+6761,small_airport,Cross Creek Farms Airport,29,-81,US,US-FL
+6762,small_airport,Columbus Southwest Airport,40,-83,US,US-OH
+6763,small_airport,Middlekoop Airport,41,-92,US,US-IA
+6764,small_airport,Lanham Field,44,-117,US,US-ID
+6765,small_airport,Turkey Run Airport,41,-85,US,US-IN
+6766,small_airport,Schertz Aerial Service - Hudson Airport,41,-89,US,US-IL
+45410,seaplane_base,Lake Gage Seaplane Base,42,-85,US,US-IN
+6767,small_airport,Van Gorder Airport,40,-89,US,US-IL
+6768,heliport,Robinson Industries Heliport,39,-95,US,US-KS
+6769,small_airport,Natchez Trace Farm Airport,37,-86,US,US-KY
+6770,heliport,St James Heliport,30,-91,US,US-LA
+6771,small_airport,Brunner Airport,42,-88,US,US-IL
+6772,heliport,La National Guard Heliport,30,-91,US,US-LA
+6773,closed,Goddard Field (Airport),43,-71,US,US-MA
+6774,heliport,Chesapeake City Heliport,40,-76,US,US-MD
+6775,small_airport,Beech Hill Airport,45,-70,US,US-ME
+6776,small_airport,Rapids Airway Airport,43,-85,US,US-MI
+6777,small_airport,Helblad Airport,48,-95,US,US-MN
+6778,small_airport,Airpark Private Airport,39,-91,US,US-MO
+6779,small_airport,Nick's Flying Service Inc Airport,33,-91,US,US-MS
+6780,small_airport,Pluhar Airport,47,-106,US,US-MT
+6781,heliport,Western Wake Medical Center Heliport,36,-79,US,US-NC
+6782,small_airport,Mc Connell Field Airport,41,-101,US,US-NE
+6783,small_airport,Emmanuel Airport,40,-75,US,US-NJ
+6784,small_airport,Kingston Ranch Airport,36,-116,US,US-NV
+6785,small_airport,Klaverack Airport,42,-74,US,US-NY
+45733,heliport,Teufel Heliport,46,-123,US,US-OR
+6786,small_airport,Bossow Airport,41,-81,US,US-OH
+6787,heliport,Stillwater Medical Center Heliport,36,-97,US,US-OK
+6788,small_airport,Collins Landing Strip,45,-120,US,US-OR
+6789,heliport,S & C Distribution Center Heliport,40,-75,US,US-PA
+6790,heliport,Strawbridge & Clothier Exton Heliport,40,-76,US,US-PA
+6791,heliport,Emergency Helipad,35,-83,US,US-SC
+6792,heliport,Capitol National Bank Building Heliport,30,-98,US,US-TX
+6793,heliport,Veterans Affairs Medical Center Heliport,30,-95,US,US-TX
+6794,small_airport,Hensley Airpark,36,-83,US,US-TN
+6795,heliport,Hummingbird Heliport,31,-98,US,US-TX
+6796,small_airport,Pocock Airport,32,-97,US,US-TX
+6797,small_airport,Navajo Mountain Airport,37,-111,US,US-UT
+6798,small_airport,Saguache Municipal Airport,38,-106,US,US-CO
+6799,heliport,Russell County Medical Center Heliport,37,-82,US,US-VA
+6800,small_airport,Manquin Flight Park Ultralightport,38,-77,US,US-VA
+6801,small_airport,Lightning Bolt Field Airport,44,-72,US,US-VT
+6802,small_airport,Field of Dreams Airport,46,-93,US,US-MN
+6803,small_airport,Ox Meadows Airport,48,-117,US,US-WA
+6804,small_airport,Dutch Gap Airstrip,43,-88,US,US-WI
+45903,small_airport,Stillwater Creek Airport,47,-120,US,US-WA
+6805,heliport,West Virginia Univ Hosp Inc Gnd Pad #2 Helipor,40,-80,US,US-WV
+6806,heliport,Napiers Heliport,33,-97,US,US-TX
+6807,small_airport,Wasilla Creek Airpark,62,-149,US,US-AK
+6808,heliport,Allen Stagefield Army Heliport,31,-86,US,US-AL
+45302,small_airport,Ozark Skies Airpark,36,-94,US,US-AR
+6809,heliport,Yuma Regional Medical Center Heliport,33,-115,US,US-AZ
+6810,seaplane_base,Van Buren Seaplane Base,47,-68,US,US-ME
+6811,heliport,Lost Hills Sheriff's Station Heliport,34,-119,US,US-CA
+6812,small_airport,Pope Valley Airport,39,-122,US,US-CA
+6813,small_airport,Rancho De Aereo Airport,40,-105,US,US-CO
+6814,heliport,O And G Heliport,42,-73,US,US-CT
+6815,small_airport,Melanie's Airport,31,-86,US,US-FL
+6816,heliport,Aventura Heliport,26,-80,US,US-FL
+6817,small_airport,Charlton Strip,27,-81,US,US-FL
+6818,small_airport,Raju Airport,32,-85,US,US-GA
+6819,small_airport,Spotts Field,43,-93,US,US-IA
+6820,small_airport,Running Creek Ranch Airport,46,-115,US,US-ID
+6821,small_airport,Reichhart Airport,41,-85,US,US-IN
+6822,small_airport,Classic Landings Airport,41,-88,US,US-IL
+6823,small_airport,Cooper Airport,40,-87,US,US-IN
+6824,small_airport,Hardy Airport,40,-89,US,US-IL
+6825,small_airport,Darbro Field,37,-96,US,US-KS
+6826,small_airport,Cartersville Airport,38,-84,US,US-KY
+6827,small_airport,Greg's Flying Service Airport,32,-92,US,US-LA
+6828,heliport,Midwest Heliport,42,-88,US,US-IL
+6829,small_airport,Grass Roots Airport,31,-92,US,US-LA
+6830,heliport,Pauls Valley General Hospital Heliport,35,-97,US,US-OK
+6831,heliport,Bentley Heliport,43,-71,US,US-MA
+6832,small_airport,Breezecroft Airport,39,-76,US,US-MD
+6833,small_airport,Drisko Airport,45,-68,US,US-ME
+6834,heliport,Portageville Community Heliport,36,-90,US,US-MO
+6835,heliport,Va Medical Center Jackson Heliport,32,-90,US,US-MS
+6836,heliport,Brunswick Community Hospital Heliport,34,-78,US,US-NC
+6837,small_airport,Mc Kay Airport,42,-98,US,US-NE
+6838,heliport,Stumpfield Heliport,43,-71,US,US-NH
+6839,heliport,Paulus Hook Pier Heliport,41,-74,US,US-NJ
+6840,heliport,Oswego County At Pulaski Heliport,44,-76,US,US-NY
+6841,small_airport,Dorlon Airpark,41,-82,US,US-OH
+6842,small_airport,Hawk Haven Airport,36,-98,US,US-OK
+6843,small_airport,Peacock Ranch Airport,45,-117,US,US-OR
+6844,heliport,Philadelphia Market Street Heliport,40,-75,US,US-PA
+6845,heliport,State Police Area Iii Heliport,40,-77,US,US-PA
+6846,small_airport,Mills Brothers Airport,40,-78,US,US-PA
+6847,small_airport,Vernonia Airfield,46,-123,US,US-OR
+6848,small_airport,Brandes Air Field,30,-96,US,US-TX
+6849,small_airport,Hilde-Griff Field,31,-98,US,US-TX
+6850,closed,Thurmond Glenn Field,36,-90,US,US-TN
+6851,small_airport,Dew Drop Airport,33,-97,US,US-TX
+6852,small_airport,Circle 'A' Ranch Airport,32,-97,US,US-TX
+6853,small_airport,Oljato Airport,37,-110,US,US-UT
+6854,small_airport,Blanca Airport,37,-106,US,US-CO
+6855,small_airport,Providence Airport,37,-78,US,US-VA
+6856,heliport,Port of Highgate Springs Heliport,45,-73,US,US-VT
+6857,heliport,Sacred Heart Medical Center Helistop,48,-117,US,US-WA
+6858,small_airport,Ames Private Airport,43,-89,US,US-WI
+45907,small_airport,Flat Creek Field,49,-118,US,US-WA
+6859,small_airport,Johnson Memorial Airport,33,-92,US,US-AR
+6860,small_airport,Henning Municipal Airport,46,-95,US,US-MN
+45272,small_airport,June Lake Airpark,62,-150,US,US-AK
+6861,heliport,Brown Stagefield Army Heliport,31,-86,US,US-AL
+6862,small_airport,Bondair Airport,36,-92,US,US-AR
+6863,heliport,Mercy Gilbert Medical Center Heliport,33,-112,US,US-AZ
+6864,seaplane_base,Lucky Landing Marina and Seaplane Base,45,-69,US,US-ME
+6865,heliport,Sce Solar I Heliport,35,-117,US,US-CA
+6866,heliport,Abc7-Tv Heliport,35,-118,US,US-CA
+6867,small_airport,Jecan Airport,37,-104,US,US-CO
+6868,small_airport,William P Gwinn Airport,27,-80,US,US-FL
+6869,small_airport,Grass Roots Airpark,29,-82,US,US-FL
+6870,heliport,Morton Plant Hospital Heliport,28,-83,US,US-FL
+6871,heliport,Smith Heliport,34,-84,US,US-GA
+6872,seaplane_base,Patoka Reservoir Landing Area Seaplane Base,38,-87,US,US-IN
+6873,small_airport,Rich Field,42,-92,US,US-IA
+6874,small_airport,Larkin Airport,43,-116,US,US-ID
+6875,small_airport,Humm Airport,42,-89,US,US-IL
+6876,small_airport,Ellis Fly-In Airport,39,-87,US,US-IN
+6877,small_airport,Sinele Strip,41,-91,US,US-IL
+6878,heliport,Riverside Hospital Airlift Heliport,38,-97,US,US-KS
+6879,heliport,Falcon Heliport,38,-83,US,US-KY
+6880,heliport,Panther Helicopters Inc Heliport,30,-90,US,US-LA
+6881,heliport,Hammersmith Heliport,42,-88,US,US-IL
+6882,heliport,Tembec Heliport,31,-91,US,US-LA
+6883,heliport,The Barn Heliport,43,-72,US,US-MA
+6884,heliport,Bayview Heliport,39,-77,US,US-MD
+6885,heliport,W A Foote Memorial Hospital Heliport,42,-84,US,US-MI
+6886,small_airport,Pike Field Airport,48,-92,US,US-MN
+6887,small_airport,Noahs Ark Airport,39,-95,US,US-MO
+6888,small_airport,Torgerson Airport,49,-112,US,US-MT
+6889,small_airport,Randall Airport,41,-74,US,US-NY
+6890,small_airport,Tailwinds Airport,35,-79,US,US-NC
+6891,small_airport,Fitterer's Strip,47,-102,US,US-ND
+6892,heliport,St Marys Hospital Heliport,41,-96,US,US-NE
+6893,small_airport,Cole Farm Airport,43,-71,US,US-NH
+6894,heliport,Chemical Bank - New Jersey Na Heliport,40,-75,US,US-NJ
+6895,small_airport,Murphy Field,43,-76,US,US-NY
+6896,heliport,Saint Elizabeth Medical Center Heliport,41,-81,US,US-OH
+6897,small_airport,Hal Joy Airfield,42,-81,US,US-OH
+6898,small_airport,Green Acres Airport,40,-84,US,US-OH
+6899,heliport,Albert Lodge Heliport,37,-95,US,US-OK
+6900,small_airport,Hayden Mountain Airport,45,-123,US,US-OR
+6901,small_airport,Freefall Oz Airport,42,-78,US,US-PA
+45764,heliport,Schiavoni Heliport,40,-77,US,US-PA
+6902,heliport,Cherokee Island Castle Heliport,40,-80,US,US-PA
+6903,small_airport,Grawunder Field,30,-96,US,US-TX
+6904,small_airport,Beyer Farm Airport,38,-97,US,US-KS
+6905,small_airport,Glaser Field,31,-97,US,US-TX
+6906,small_airport,Ainsworth Airport,30,-95,US,US-TX
+6907,small_airport,Hunter STOLport,36,-87,US,US-TN
+6908,small_airport,Roscoe Mc Connico Airport,32,-96,US,US-TX
+6909,small_airport,Diamond N Ranch Airport,30,-96,US,US-TX
+6910,small_airport,Mount Horeb Field,38,-79,US,US-VA
+6911,heliport,N A Degerstrom Yard Heliport,48,-117,US,US-WA
+6912,small_airport,Young Private Airport,46,-92,US,US-WI
+15372,small_airport,Western Airpark,47,-123,US,US-WA
+6913,small_airport,Campbell Field,33,-97,US,US-TX
+6914,small_airport,Herman Municipal Airport,46,-96,US,US-MN
+6915,heliport,Tac X Stagefield Army Heliport,31,-86,US,US-AL
+6916,small_airport,Morrilton Airport,35,-93,US,US-AR
+6917,closed,John C Lincoln Hospital Heliport,34,-112,US,US-AZ
+6918,small_airport,Blue Hill Airport,44,-69,US,US-ME
+6919,heliport,West Side Hospital Heliport,35,-119,US,US-CA
+6920,small_airport,Richvale Airport,39,-122,US,US-CA
+6921,small_airport,Comanche Creek Airport,39,-104,US,US-CO
+6922,closed,Tnt Heliport,41,-72,US,US-CT
+6923,small_airport,Tackaberry Airport,43,-83,US,US-MI
